@@ -1,18 +1,18 @@
 {
   "ok": true,
   "atlas": "assets/spritesheet.png",
-  "encoded_bytes": 3481313,
-  "sha256": "014407ee85b310510e72a1e46c9b39aa9a0ebebd15b0ddd8a214ae8366807644",
+  "encoded_bytes": 3481103,
+  "sha256": "d74530f31b4c4dc2c5f9261c0c4ce3e6ac620adfb3b11bf97be130ae31ac55a1",
   "jump": {
     "idle_baseline": 196,
     "jump_baselines": [
       197,
-      183,
-      174,
-      182,
+      186,
+      178,
+      186,
       197
     ],
-    "airborne_lift_pixels": 23,
+    "airborne_lift_pixels": 19,
     "landing_delta_pixels": 1
   },
   "look_registration": {

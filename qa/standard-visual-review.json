@@ -1,0 +1,23 @@
+{
+  "ok": true,
+  "basis": "Visual inspection of normalized contact sheet and previous idle, running-right, waiting, failed source strips; no video playback independently inspected.",
+  "blocking_findings": [],
+  "observations": {
+    "identity": "Round brown featherball, amber eyes, dark beak and short attached wings remain consistent across the sheet.",
+    "idle": "Eyes close and reopen across intermediate poses; body and baseline visually stable relative to older head-bob.",
+    "running-right/left": "Facing directions correct; wing positions change modestly while feet remain nearly anchored. Flight cadence is subtle.",
+    "waving": "Short attached wing extends and returns toward the body.",
+    "jumping": "Small upward displacement and return to grounded pose visible.",
+    "failed": "Eyes lower gradually with a modest centered bow and recover, a subdued reaction.",
+    "waiting": "Small head and wing changes suggest expectation; first and last close in the reordered strip.",
+    "running": "Small left/right scanning and concentrated eyes distinguish it from idle.",
+    "review": "Downward gaze conveys inspection before returning to neutral.",
+    "registration": "Bodies and feet broadly stable; no obvious detached limbs or clipping in contact sheet. Most first/last poses visually close."
+  },
+  "warnings": [
+    "Failed expression is understated and can read as tired or annoyed rather than disappointed.",
+    "Flight and waiting motion are deliberately subtle; assess readability at normal size during playback.",
+    "Wave final pose remains slightly raised relative to first; confirm return is smooth during playback.",
+    "Playback, timing and loop transitions were not independently verified."
+  ]
+}

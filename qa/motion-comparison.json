@@ -1,0 +1,87 @@
+{
+  "method": "Mean absolute RGB difference after2px Gaussian filtering, native192x208 cells, same background, original frame durations. Measures adjacent visual changes including seam; not a perceptual smoothness score. Foot anchor from bottom8px visible silhouette.",
+  "gaze_pixels_unchanged": true,
+  "states": {
+    "idle": {
+      "before_max_delta": 14.556,
+      "after_max_delta": 3.944,
+      "max_delta_reduction_percent": 72.9,
+      "before_foot_drift_px": 1.11,
+      "after_foot_drift_px": 0.715,
+      "before_height_variation_px": 12,
+      "after_height_variation_px": 0
+    },
+    "running-right": {
+      "before_max_delta": 16.58,
+      "after_max_delta": 6.295,
+      "max_delta_reduction_percent": 62.0,
+      "before_foot_drift_px": 9.86,
+      "after_foot_drift_px": 1.506,
+      "before_height_variation_px": 18,
+      "after_height_variation_px": 0
+    },
+    "running-left": {
+      "before_max_delta": 15.775,
+      "after_max_delta": 6.295,
+      "max_delta_reduction_percent": 60.1,
+      "before_foot_drift_px": 8.666,
+      "after_foot_drift_px": 1.39,
+      "before_height_variation_px": 18,
+      "after_height_variation_px": 0
+    },
+    "waving": {
+      "before_max_delta": 3.995,
+      "after_max_delta": 3.995,
+      "max_delta_reduction_percent": 0.0,
+      "before_foot_drift_px": 1.129,
+      "after_foot_drift_px": 1.129,
+      "before_height_variation_px": 1,
+      "after_height_variation_px": 1
+    },
+    "jumping": {
+      "before_max_delta": 29.93,
+      "after_max_delta": 21.255,
+      "max_delta_reduction_percent": 29.0,
+      "before_foot_drift_px": 2.205,
+      "after_foot_drift_px": 0.96,
+      "before_height_variation_px": 6,
+      "after_height_variation_px": 3
+    },
+    "failed": {
+      "before_max_delta": 14.772,
+      "after_max_delta": 2.672,
+      "max_delta_reduction_percent": 81.9,
+      "before_foot_drift_px": 0.668,
+      "after_foot_drift_px": 1.262,
+      "before_height_variation_px": 17,
+      "after_height_variation_px": 1
+    },
+    "waiting": {
+      "before_max_delta": 17.759,
+      "after_max_delta": 8.796,
+      "max_delta_reduction_percent": 50.5,
+      "before_foot_drift_px": 0.86,
+      "after_foot_drift_px": 0.849,
+      "before_height_variation_px": 3,
+      "after_height_variation_px": 1
+    },
+    "running": {
+      "before_max_delta": 15.47,
+      "after_max_delta": 12.147,
+      "max_delta_reduction_percent": 21.5,
+      "before_foot_drift_px": 1.026,
+      "after_foot_drift_px": 0.59,
+      "before_height_variation_px": 7,
+      "after_height_variation_px": 0
+    },
+    "review": {
+      "before_max_delta": 13.928,
+      "after_max_delta": 11.459,
+      "max_delta_reduction_percent": 17.7,
+      "before_foot_drift_px": 0.973,
+      "after_foot_drift_px": 0.856,
+      "before_height_variation_px": 1,
+      "after_height_variation_px": 1
+    }
+  }
+}

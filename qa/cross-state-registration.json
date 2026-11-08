@@ -1,0 +1,509 @@
+{
+  "failed": {
+    "shared_scale": 0.8064516129032258,
+    "shared_translation_y": 39.12903225806451,
+    "reference_height": 186,
+    "target_body_height": 150,
+    "ground_baseline": 198,
+    "phase_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "registration": "All states including flight share fixed foot anchor. Jump vertical displacement preserved. Existing generated pose groups only resized and translated; no pose pixels redrawn or blended.",
+    "frames": [
+      {
+        "frame": 0,
+        "source_phase": 0,
+        "source_foot_center_x": 96.35494880546075,
+        "translation_x": 18.294396124628435
+      },
+      {
+        "frame": 1,
+        "source_phase": 1,
+        "source_foot_center_x": 96.81597222222223,
+        "translation_x": 17.922603046594986
+      },
+      {
+        "frame": 2,
+        "source_phase": 2,
+        "source_foot_center_x": 96.50515463917526,
+        "translation_x": 18.173262387761895
+      },
+      {
+        "frame": 3,
+        "source_phase": 3,
+        "source_foot_center_x": 96.01384083044982,
+        "translation_x": 18.56948320125015
+      },
+      {
+        "frame": 4,
+        "source_phase": 4,
+        "source_foot_center_x": 96.20833333333333,
+        "translation_x": 18.41263440860216
+      },
+      {
+        "frame": 5,
+        "source_phase": 5,
+        "source_foot_center_x": 96.55670103092784,
+        "translation_x": 18.131692716993683
+      },
+      {
+        "frame": 6,
+        "source_phase": 6,
+        "source_foot_center_x": 95.41694915254237,
+        "translation_x": 19.05084745762713
+      },
+      {
+        "frame": 7,
+        "source_phase": 7,
+        "source_foot_center_x": 95.54607508532423,
+        "translation_x": 18.946713640867557
+      }
+    ]
+  },
+  "idle": {
+    "shared_scale": 0.8379888268156425,
+    "shared_translation_y": 36.26815642458101,
+    "reference_height": 179,
+    "target_body_height": 150,
+    "ground_baseline": 198,
+    "phase_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "registration": "All states including flight share fixed foot anchor. Jump vertical displacement preserved. Existing generated pose groups only resized and translated; no pose pixels redrawn or blended.",
+    "frames": [
+      {
+        "frame": 0,
+        "source_phase": 0,
+        "source_foot_center_x": 96.53465346534654,
+        "translation_x": 15.105038995519664
+      },
+      {
+        "frame": 1,
+        "source_phase": 1,
+        "source_foot_center_x": 95.74426229508197,
+        "translation_x": 15.767377965015115
+      },
+      {
+        "frame": 2,
+        "source_phase": 2,
+        "source_foot_center_x": 96.62012987012987,
+        "translation_x": 15.033410723354848
+      },
+      {
+        "frame": 3,
+        "source_phase": 3,
+        "source_foot_center_x": 95.93092105263158,
+        "translation_x": 15.61096001176125
+      },
+      {
+        "frame": 4,
+        "source_phase": 4,
+        "source_foot_center_x": 96.02325581395348,
+        "translation_x": 15.533584513446797
+      },
+      {
+        "frame": 5,
+        "source_phase": 5,
+        "source_foot_center_x": 95.9202657807309,
+        "translation_x": 15.619889010560698
+      }
+    ]
+  },
+  "jumping": {
+    "shared_scale": 0.8426966292134831,
+    "shared_translation_y": 26.932584269662925,
+    "reference_height": 178,
+    "target_body_height": 150,
+    "ground_baseline": 198,
+    "phase_order": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "registration": "All states including flight share fixed foot anchor. Jump vertical displacement preserved. Existing generated pose groups only resized and translated; no pose pixels redrawn or blended.",
+    "frames": [
+      {
+        "frame": 0,
+        "source_phase": 0,
+        "source_foot_center_x": 95.50798722044729,
+        "translation_x": 15.515741106364644
+      },
+      {
+        "frame": 1,
+        "source_phase": 1,
+        "source_foot_center_x": 95.36704119850187,
+        "translation_x": 15.634515843959107
+      },
+      {
+        "frame": 2,
+        "source_phase": 2,
+        "source_foot_center_x": 95.9209486166008,
+        "translation_x": 15.167739929830788
+      },
+      {
+        "frame": 3,
+        "source_phase": 3,
+        "source_foot_center_x": 95.22692307692307,
+        "translation_x": 15.752592912705282
+      },
+      {
+        "frame": 4,
+        "source_phase": 4,
+        "source_foot_center_x": 95.90584415584415,
+        "translation_x": 15.180468407996514
+      }
+    ]
+  },
+  "review": {
+    "shared_scale": 0.8152173913043478,
+    "shared_translation_y": 38.21739130434784,
+    "reference_height": 184,
+    "target_body_height": 150,
+    "ground_baseline": 198,
+    "phase_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "registration": "All states including flight share fixed foot anchor. Jump vertical displacement preserved. Existing generated pose groups only resized and translated; no pose pixels redrawn or blended.",
+    "frames": [
+      {
+        "frame": 0,
+        "source_phase": 0,
+        "source_foot_center_x": 95.91240875912409,
+        "translation_x": 17.810536337670584
+      },
+      {
+        "frame": 1,
+        "source_phase": 1,
+        "source_foot_center_x": 96.5,
+        "translation_x": 17.331521739130437
+      },
+      {
+        "frame": 2,
+        "source_phase": 2,
+        "source_foot_center_x": 95.66187050359713,
+        "translation_x": 18.01477948076321
+      },
+      {
+        "frame": 3,
+        "source_phase": 3,
+        "source_foot_center_x": 96.14893617021276,
+        "translation_x": 17.61771507863091
+      },
+      {
+        "frame": 4,
+        "source_phase": 4,
+        "source_foot_center_x": 95.69202898550725,
+        "translation_x": 17.99019376181475
+      },
+      {
+        "frame": 5,
+        "source_phase": 5,
+        "source_foot_center_x": 95.6989247311828,
+        "translation_x": 17.984572230014024
+      }
+    ]
+  },
+  "running": {
+    "shared_scale": 0.8241758241758241,
+    "shared_translation_y": 37.285714285714306,
+    "reference_height": 182,
+    "target_body_height": 150,
+    "ground_baseline": 198,
+    "phase_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "registration": "All states including flight share fixed foot anchor. Jump vertical displacement preserved. Existing generated pose groups only resized and translated; no pose pixels redrawn or blended.",
+    "frames": [
+      {
+        "frame": 0,
+        "source_phase": 0,
+        "source_foot_center_x": 95.96153846153847,
+        "translation_x": 16.91081994928149
+      },
+      {
+        "frame": 1,
+        "source_phase": 1,
+        "source_foot_center_x": 95.64041095890411,
+        "translation_x": 17.175485473430683
+      },
+      {
+        "frame": 2,
+        "source_phase": 2,
+        "source_foot_center_x": 96.10069444444444,
+        "translation_x": 16.796130952380963
+      },
+      {
+        "frame": 3,
+        "source_phase": 3,
+        "source_foot_center_x": 94.73867595818815,
+        "translation_x": 17.918673660833946
+      },
+      {
+        "frame": 4,
+        "source_phase": 4,
+        "source_foot_center_x": 96.35172413793103,
+        "translation_x": 16.58923834785905
+      },
+      {
+        "frame": 5,
+        "source_phase": 5,
+        "source_foot_center_x": 96.73611111111111,
+        "translation_x": 16.272435897435898
+      }
+    ]
+  },
+  "running-left": {
+    "shared_scale": 0.8064516129032258,
+    "shared_translation_y": 39.12903225806451,
+    "reference_height": 186,
+    "target_body_height": 150,
+    "ground_baseline": 198,
+    "phase_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "registration": "All states including flight share fixed foot anchor. Jump vertical displacement preserved. Existing generated pose groups only resized and translated; no pose pixels redrawn or blended.",
+    "frames": [
+      {
+        "frame": 0,
+        "source_phase": 0,
+        "source_foot_center_x": 91.82329317269077,
+        "translation_x": 21.94895711879778
+      },
+      {
+        "frame": 1,
+        "source_phase": 1,
+        "source_foot_center_x": 88.48178137651821,
+        "translation_x": 24.643724696356287
+      },
+      {
+        "frame": 2,
+        "source_phase": 2,
+        "source_foot_center_x": 87.33755274261604,
+        "translation_x": 25.566489723696748
+      },
+      {
+        "frame": 3,
+        "source_phase": 3,
+        "source_foot_center_x": 87.40167364016736,
+        "translation_x": 25.514779322445676
+      },
+      {
+        "frame": 4,
+        "source_phase": 4,
+        "source_foot_center_x": 92.48971193415638,
+        "translation_x": 21.411522633744866
+      },
+      {
+        "frame": 5,
+        "source_phase": 5,
+        "source_foot_center_x": 91.6872427983539,
+        "translation_x": 22.058675162617817
+      },
+      {
+        "frame": 6,
+        "source_phase": 6,
+        "source_foot_center_x": 91.24793388429752,
+        "translation_x": 22.412956544921357
+      },
+      {
+        "frame": 7,
+        "source_phase": 7,
+        "source_foot_center_x": 91.48373983739837,
+        "translation_x": 22.222790453711
+      }
+    ]
+  },
+  "running-right": {
+    "shared_scale": 0.8064516129032258,
+    "shared_translation_y": 39.12903225806451,
+    "reference_height": 186,
+    "target_body_height": 150,
+    "ground_baseline": 198,
+    "phase_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "registration": "All states including flight share fixed foot anchor. Jump vertical displacement preserved. Existing generated pose groups only resized and translated; no pose pixels redrawn or blended.",
+    "frames": [
+      {
+        "frame": 0,
+        "source_phase": 0,
+        "source_foot_center_x": 98.56048387096774,
+        "translation_x": 16.515738813735695
+      },
+      {
+        "frame": 1,
+        "source_phase": 1,
+        "source_foot_center_x": 101.52845528455285,
+        "translation_x": 14.12221348019932
+      },
+      {
+        "frame": 2,
+        "source_phase": 2,
+        "source_foot_center_x": 103.66244725738396,
+        "translation_x": 12.401252211787138
+      },
+      {
+        "frame": 3,
+        "source_phase": 3,
+        "source_foot_center_x": 103.59832635983264,
+        "translation_x": 12.452962613038196
+      },
+      {
+        "frame": 4,
+        "source_phase": 4,
+        "source_foot_center_x": 98.51028806584362,
+        "translation_x": 16.55621930173902
+      },
+      {
+        "frame": 5,
+        "source_phase": 5,
+        "source_foot_center_x": 98.23868312757202,
+        "translation_x": 16.775255542280632
+      },
+      {
+        "frame": 6,
+        "source_phase": 6,
+        "source_foot_center_x": 99.75206611570248,
+        "translation_x": 15.554785390562529
+      },
+      {
+        "frame": 7,
+        "source_phase": 7,
+        "source_foot_center_x": 99.51626016260163,
+        "translation_x": 15.744951481772887
+      }
+    ]
+  },
+  "waiting": {
+    "shared_scale": 0.9090909090909091,
+    "shared_translation_y": 28.909090909090907,
+    "reference_height": 165,
+    "target_body_height": 150,
+    "ground_baseline": 198,
+    "phase_order": [
+      4,
+      0,
+      2,
+      3,
+      1,
+      5
+    ],
+    "registration": "All states including flight share fixed foot anchor. Jump vertical displacement preserved. Existing generated pose groups only resized and translated; no pose pixels redrawn or blended.",
+    "frames": [
+      {
+        "frame": 0,
+        "source_phase": 4,
+        "source_foot_center_x": 95.0,
+        "translation_x": 9.63636363636364
+      },
+      {
+        "frame": 1,
+        "source_phase": 0,
+        "source_foot_center_x": 95.56204379562044,
+        "translation_x": 9.125414731254153
+      },
+      {
+        "frame": 2,
+        "source_phase": 2,
+        "source_foot_center_x": 95.44525547445255,
+        "translation_x": 9.231585932315866
+      },
+      {
+        "frame": 3,
+        "source_phase": 3,
+        "source_foot_center_x": 95.06713780918727,
+        "translation_x": 9.575329264375213
+      },
+      {
+        "frame": 4,
+        "source_phase": 1,
+        "source_foot_center_x": 95.17204301075269,
+        "translation_x": 9.479960899315742
+      },
+      {
+        "frame": 5,
+        "source_phase": 5,
+        "source_foot_center_x": 95.23021582733813,
+        "translation_x": 9.427076520601702
+      }
+    ]
+  },
+  "waving": {
+    "shared_scale": 0.872093023255814,
+    "shared_translation_y": 32.30232558139534,
+    "reference_height": 172,
+    "target_body_height": 150,
+    "ground_baseline": 198,
+    "phase_order": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "registration": "All states including flight share fixed foot anchor. Jump vertical displacement preserved. Existing generated pose groups only resized and translated; no pose pixels redrawn or blended.",
+    "frames": [
+      {
+        "frame": 0,
+        "source_phase": 0,
+        "source_foot_center_x": 95.59714285714286,
+        "translation_x": 12.630398671096344
+      },
+      {
+        "frame": 1,
+        "source_phase": 1,
+        "source_foot_center_x": 93.05367231638418,
+        "translation_x": 14.848541584548684
+      },
+      {
+        "frame": 2,
+        "source_phase": 2,
+        "source_foot_center_x": 88.45197740112994,
+        "translation_x": 18.861647615293663
+      },
+      {
+        "frame": 3,
+        "source_phase": 3,
+        "source_foot_center_x": 94.64406779661017,
+        "translation_x": 13.461568782026006
+      }
+    ]
+  }
+}

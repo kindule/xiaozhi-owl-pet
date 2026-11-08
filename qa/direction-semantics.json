@@ -113,5 +113,6 @@
       "evidence": "Face almost upward with a gentle remaining left yaw and beak offset, flowing into centered up."
     }
   ],
-  "continuity_review": "Native-size labeled review shows round lower belly, short wings and tiny feet remain anchored; no whole-body turntable, face loss, clipping, holes or broken attachment. Both clockwise half rows continue without principal-quadrant reversal. Near-cardinal intermediate axes are subtle but the ordered gaze arc remains coherent. No continuity warnings in bundled report."
+  "continuity_review": "Native-size labeled review shows round lower belly, short wings and tiny feet remain anchored; no whole-body turntable, face loss, clipping, holes or broken attachment. Both clockwise half rows continue without principal-quadrant reversal. Near-cardinal intermediate axes are subtle but the ordered gaze arc remains coherent. No continuity warnings in bundled report.",
+  "repair_note": "All16 gaze cells retained byte-identical as RGBA pixels to fetched active pet; no gaze imagery changed."
 }
